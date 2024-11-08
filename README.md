@@ -6,7 +6,7 @@
 - **Gestion des films 🎥** : Ajout, modification et suppression de films.
 - **Gestion des tickets 🎫** : Vente de tickets et suivi des réservations.
 - **Interface Swing 💻** : Une interface graphique intuitive et facile à utiliser.
-- **Base de données** : Permet la gestion des films et des tickets en temps réel.
+- **Base de données (SQL)** : Permet la gestion des films et des tickets en temps réel.
 
 ## Prérequis 🖥️
 Avant d'exécuter l'application, assurez-vous d'avoir les éléments suivants installés sur votre machine :
@@ -18,3 +18,7 @@ Avant d'exécuter l'application, assurez-vous d'avoir les éléments suivants in
 1. Clonez le projet depuis GitHub :
    ```bash
    git clone https://github.com/rzig1/Cinema_Corniche_Swing.git
+
+
+
+
